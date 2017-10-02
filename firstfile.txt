@@ -1,4 +1,11 @@
 checkinout
+<<<<<<< HEAD
 secondcomiitsecondcomiit
 thirdcommit
 check
+=======
+secondcomiit
+thirdcommit
+fourthcommit
+sss
+>>>>>>> 5dd0f3e2470a1e6cd649b1ade6e826ada200d1f4
